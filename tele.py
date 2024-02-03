@@ -1,3 +1,6 @@
+# Adriana binti Anuar Kamal 2025778
+# Rafa Elean Sugafta 2011908
+
 import configparser
 import json
 import pandas as pd
